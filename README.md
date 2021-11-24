@@ -1,21 +1,21 @@
 Currently 
- 👩‍💻 Developing [a C++ framework](https://coollibs.github.io/home/) for computer graphics applications
- ✏️ Writing [C++ lessons](https://julesfouchy.github.io/Learn--Cpp-And-Dev-Practices/) with an emphasis on clean code
- 👨‍🏫 Looking for a teacher job
- 👀 Looking for people who have project ideas waiting to be concretized
- 🎬 Starting [a Youtube channel](https://www.youtube.com/channel/UC74MsUs2U6Qn3pSkKsNvasQ)
+ - 👩‍💻 Developing [a C++ framework](https://coollibs.github.io/home/) for computer graphics applications
+ - ✏️ Writing [C++ lessons](https://julesfouchy.github.io/Learn--Cpp-And-Dev-Practices/) with an emphasis on clean code
+ - 👨‍🏫 Looking for a teacher job
+ - 👀 Looking for people who have project ideas waiting to be concretized
+ - 🎬 Starting [a Youtube channel](https://www.youtube.com/channel/UC74MsUs2U6Qn3pSkKsNvasQ)
 
 Interested in
- 🌌 Computer graphics
- 🎨 Generative art
- 📐 Mathematics
- 🔨 Software architecture
+ - 🌌 Computer graphics
+ - 🎨 Generative art
+ - 📐 Mathematics
+ - 🔨 Software architecture
 
 Loves
- 💖 Open Source
- 🎁 Sharing knowledge
- 🤗 Making people happy
- 💃 Dancing
+ - 💖 Open Source
+ - 🎁 Sharing knowledge
+ - 🤗 Making people happy
+ - 💃 Dancing
 
 ## My projects
 
