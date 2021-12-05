@@ -4,7 +4,7 @@ Currently
  - 👩‍💻 Developing [a C++ framework](https://coollibs.github.io/home/) for computer graphics software
  - ✏️ Writing [a C++ course](https://julesfouchy.github.io/Learn--Cpp-And-Dev-Practices/) with an emphasis on clean code
  - 👨‍🏫 Looking for a teacher job
- - 👀 Looking for projects to contribute to or get started
+ - 👀 Looking for projects to contribute to or help get started
  - 🎬 Starting [a Youtube channel](https://www.youtube.com/channel/UC74MsUs2U6Qn3pSkKsNvasQ)
 
 Interested in
