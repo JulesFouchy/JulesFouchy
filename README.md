@@ -71,6 +71,6 @@ I did a few template projects that can help you get started quicly:
 
 ## My classes
 
-- [C++ and Dev Practices](https://julesfouchy.github.io/Learn--Cpp-And-Dev-Practices/)
-- [Mathematics for Art and Computer Graphics](https://github.com/JulesFouchy/Learn--Math-for-Art-and-Computer-Graphics)
-- [Generative Art](https://github.com/JulesFouchy/Learn--Generative-Art)
+- [**C++ and Dev Practices**](https://julesfouchy.github.io/Learn--Cpp-And-Dev-Practices/)
+- [**Mathematics for Art and Computer Graphics**](https://github.com/JulesFouchy/Learn--Math-for-Art-and-Computer-Graphics)
+- [**Generative Art**](https://github.com/JulesFouchy/Learn--Generative-Art)
