@@ -19,22 +19,16 @@ Loves
  - 🤗 Making people happy
  - 💃 Dancing
 
- [Resume](https://julesfouchy.github.io/Resume/) [Portfolio](https://julesfouchy.github.io/Portfolio/)
+ Check out my [personal website](https://julesfouchy.github.io/home/)!
 
- ---
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=julesfouchy&show_icons=true)
 
- ![JulesFouchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=julesfouchy&show_icons=true)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesfouchy&hide=fortran&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesfouchy&hide=fortran&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## My projects
 
 <a href="https://github.com/JulesFouchy/p6">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=p6" />
-</a>
-
-<a href="https://github.com/JulesFouchy/p6-examples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=p6-examples" />
 </a>
 
 <a href="https://github.com/JulesFouchy/Django">
