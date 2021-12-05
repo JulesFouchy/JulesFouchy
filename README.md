@@ -1,4 +1,4 @@
-Hi! I'm a software engineer, teacher and curious mind.
+Hi! I am a software engineer, teacher and curious mind.
 
 Currently 
  - 👩‍💻 Developing [a C++ framework](https://coollibs.github.io/home/) for computer graphics software
