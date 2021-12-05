@@ -1,19 +1,19 @@
 Hi! I am a software engineer, teacher and curious mind.
 
-Currently:
+Currently
  - 👩‍💻 Developing [a C++ framework](https://coollibs.github.io/home/) for computer graphics software
  - ✏️ Writing [a C++ course](https://julesfouchy.github.io/Learn--Cpp-And-Dev-Practices/) with an emphasis on clean code
  - 👨‍🏫 Looking for a teacher job
  - 👀 Looking for projects to contribute to or get started
  - 🎬 Starting [a Youtube channel](https://www.youtube.com/channel/UC74MsUs2U6Qn3pSkKsNvasQ)
 
-Interested in:
+Interested in
  - 🖼️ Computer graphics
  - 🎨 Generative art
  - 📐 Mathematics
  - 🔨 Software architecture
 
-Loves:
+I love
  - 💖 Open Source
  - 🎁 Sharing knowledge
  - 🤗 Making people happy
