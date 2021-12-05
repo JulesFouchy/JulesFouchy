@@ -19,14 +19,37 @@ Loves
  - 🤗 Making people happy
  - 💃 Dancing
 
+ [Resume](https://julesfouchy.github.io/Resume/) [Portfolio](https://julesfouchy.github.io/Portfolio/)
+
+ ---
+
+ ![JulesFouchy's GitHub stats](https://github-readme-stats.vercel.app/api?username=julesfouchy&show_icons=true)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesfouchy&hide=fortran&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My projects
 
-https://github.com/JulesFouchy/p6
-https://github.com/JulesFouchy/p6-examples
+<a href="https://github.com/JulesFouchy/p6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=p6" />
+</a>
 
-https://github.com/JulesFouchy/Django
-https://github.com/JulesFouchy/Tangram2
-https://github.com/JulesFouchy/IMACUBES
+<a href="https://github.com/JulesFouchy/p6-examples">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=p6-examples" />
+</a>
+
+<a href="https://github.com/JulesFouchy/Django">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Django" />
+</a>
+
+<a href="https://github.com/JulesFouchy/IMACUBES">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=IMACUBES" />
+</a>
+
+<a href="https://github.com/JulesFouchy/Tangram2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Tangram2" />
+</a>
+
+I also did a lot of work inside the [Cool organization](https://github.com/CoolLibs/).
 
 ## My artworks
 
@@ -40,6 +63,7 @@ https://github.com/JulesFouchy/ArcadeTerminalOfPhotography
 https://github.com/JulesFouchy/DixImac
 https://github.com/JulesFouchy/DixImacGallery
 https://github.com/JulesFouchy/minigimpProject
+https://github.com/guillaume-haerinck/imac-tower-defense
 
 ## Templates
 
