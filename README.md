@@ -43,49 +43,34 @@ Loves
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Tangram2" />
 </a>
 
-I also did a lot of work inside the [Cool organization](https://github.com/CoolLibs/).
+<a href="https://github.com/guillaume-haerinck/imac-tower-defense">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaume-haerinck&repo=imac-tower-defense" />
+</a>
 
-## My artworks
+I also did a lot of work inside the [Cool organization](https://github.com/CoolLibs/)
 
-https://julesfouchy.github.io/October-Procedural-Drawings-2020/
-https://github.com/JulesFouchy/live-coding
+## My Templates
 
-## Old projects
+I did a few template projects that can help you get started quicly:
 
-https://github.com/JulesFouchy/CiStatImac
-https://github.com/JulesFouchy/ArcadeTerminalOfPhotography
-https://github.com/JulesFouchy/DixImac
-https://github.com/JulesFouchy/DixImacGallery
-https://github.com/JulesFouchy/minigimpProject
-https://github.com/guillaume-haerinck/imac-tower-defense
+<a href="https://github.com/JulesFouchy/Simple-Cpp-Setup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Simple-Cpp-Setup" />
+</a>
 
-## Templates
+<a href="https://github.com/JulesFouchy/Simple-OpenGL-Setup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Simple-OpenGL-Setup" />
+</a>
 
-https://github.com/JulesFouchy/Simple-OpenGL-Setup
-<!-- https://github.com/JulesFouchy/Simple-Glimac-Setup -->
-https://github.com/JulesFouchy/Simple-Cpp-Setup
+<a href="https://github.com/JulesFouchy/p5Template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=p5Template" />
+</a>
 
-https://github.com/JulesFouchy/p5Template
-https://github.com/JulesFouchy/p5ShaderTemplate
+<a href="https://github.com/JulesFouchy/p5ShaderTemplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=p5ShaderTemplate" />
+</a>
 
 ## My classes
 
-https://julesfouchy.github.io/Learn--Cpp-And-Dev-Practices/
-https://github.com/JulesFouchy/Learn--Math-for-Art-and-Computer-Graphics
-https://github.com/JulesFouchy/Learn--Generative-Art
-
-
-<!--
-**JulesFouchy/JulesFouchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [C++ and Dev Practices](https://julesfouchy.github.io/Learn--Cpp-And-Dev-Practices/)
+- [Mathematics for Art and Computer Graphics](https://github.com/JulesFouchy/Learn--Math-for-Art-and-Computer-Graphics)
+- [Generative Art](https://github.com/JulesFouchy/Learn--Generative-Art)
