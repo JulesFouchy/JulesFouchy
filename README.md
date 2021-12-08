@@ -49,7 +49,7 @@ I love
 
 I also did a lot of work inside the [Cool organization](https://github.com/CoolLibs/)
 
-## My Templates
+## My templates
 
 I did a few template projects that can help you get started quicly:
 
