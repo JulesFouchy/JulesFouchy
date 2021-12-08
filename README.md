@@ -51,7 +51,7 @@ I also did a lot of work inside the [Cool organization](https://github.com/CoolL
 
 ## My Templates
 
-I did a few template projects that can help you get started quicly:
+I did a few template projects that can help you get started quickly:
 
 <a href="https://github.com/JulesFouchy/Simple-Cpp-Setup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Simple-Cpp-Setup" />
