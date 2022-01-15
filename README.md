@@ -84,4 +84,4 @@ I did a few template projects that can help you get started quickly:
 - [**Mathematics for Art and Computer Graphics**](https://julesfouchy.github.io/Learn--Math-for-Art-and-Computer-Graphics/) where I teach you the amazing mathematics that empower you to understand geometry, shapes and color and describe them programmatically
 
 ---
-*This ReadMe uses custom repo cards made by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)*.
+*This ReadMe uses custom repo cards made by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)*
