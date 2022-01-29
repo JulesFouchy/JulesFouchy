@@ -1,14 +1,14 @@
 [
     {
       name: "Clean Code with C++",
-      url: "https://julesfouchy.github.io/Learn--Clean-Code-With-Cpp/",
+      url: "https://julesfouchy.github.io/Learn--Clean-Code-With-Cpp/"
     },
     {
       name: "Generative Art",
-      url: "https://julesfouchy.github.io/Learn--Generative-Art",
+      url: "https://julesfouchy.github.io/Learn--Generative-Art"
     },
     {
       name: "Math for Art and Computer Graphics",
-      url: "https://julesfouchy.github.io/Learn--Math-for-Art-and-Computer-Graphics",
-    },
+      url: "https://julesfouchy.github.io/Learn--Math-for-Art-and-Computer-Graphics"
+    }
   ]
