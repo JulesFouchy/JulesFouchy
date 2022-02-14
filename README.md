@@ -1,7 +1,7 @@
 Hi! 👋 I am a software engineer, teacher and curious mind.
 
 Currently
- - 👩‍💻 Developing [a C++ framework](https://coollibs.github.io/home/) for computer graphics software
+ - 👩‍💻 Developing [a C++ framework](https://coollibs.github.io/) for computer graphics software
  - ✏️ Writing [a C++ course](https://julesfouchy.github.io/Learn--Clean-Code-With-Cpp/) with an emphasis on clean code
  - 👨‍🏫 Looking for a job as a *teacher* or *software engineer*
  - 👀 Looking for projects to contribute to or help get started
