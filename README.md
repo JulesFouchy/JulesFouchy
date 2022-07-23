@@ -68,6 +68,10 @@ I did a few template projects that can help you get started quickly:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Simple-OpenGL-Setup" />
 </a>
 
+<a href="https://github.com/JulesFouchy/Simple-ImGui-Setup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Simple-ImGui-Setup" />
+</a>
+
 <a href="https://github.com/JulesFouchy/p5Template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=p5Template" />
 </a>
