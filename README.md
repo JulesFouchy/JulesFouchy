@@ -54,7 +54,7 @@ I love
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guillaume-haerinck&repo=imac-tower-defense" />
 </a>
 
-I also did a lot of work inside the [Cool organization](https://github.com/CoolLibs/)
+I also did a lot of work inside the [CoolLibs organization](https://github.com/CoolLibs/).
 
 ## My templates
 
