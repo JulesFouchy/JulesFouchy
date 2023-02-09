@@ -60,7 +60,7 @@ I also did a lot of work inside the [CoolLibs organization](https://github.com/C
 
 I did a few template projects that can help you get started quickly:
 
-<a href="[https://github.com/JulesFouchy/Simple-Cpp-Setup](https://github.com/JulesFouchy/Simple-p6-Setup)">
+<a href="https://github.com/JulesFouchy/Simple-Cpp-Setup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulesFouchy&repo=Simple-p6-Setup" />
 </a>
 
