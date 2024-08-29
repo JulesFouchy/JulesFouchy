@@ -86,7 +86,7 @@ I did a few template projects that can help you get started quickly:
 
 - [**Clean Code with C++**](https://julesfouchy.github.io/Learn--Clean-Code-With-Cpp/) where I teach you how to write clean code that makes everything you do simpler
 - [**Generative Art**](https://julesfouchy.github.io/Learn--Generative-Art/) where I teach you how to create fascinating images through a computer and some code
-- [**Mathematics for Art and Computer Graphics**](https://julesfouchy.github.io/Learn--Math-for-Art-and-Computer-Graphics/) where I teach you the amazing mathematics that empower you to understand geometry, shapes and color and describe them programmatically
+- [**Computer Graphics**](https://julesfouchy.github.io/Rendering/) where I teach you how to tell your GPU to render nice 3D things on the screen
 
 ---
 *This ReadMe uses custom repo cards made by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)*
