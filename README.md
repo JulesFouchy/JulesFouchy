@@ -1,10 +1,8 @@
 Hi! 👋 I am a software engineer, teacher and curious mind.
 
 Currently
- - 👩‍💻 Developing [a C++ framework](https://coollibs.github.io/) for computer graphics software
- - ✏️ Writing [a C++ course](https://julesfouchy.github.io/Learn--Clean-Code-With-Cpp/) with an emphasis on clean code
- - 👀 Looking for projects to contribute to or help get started
- - 🎬 Starting [a Youtube channel](https://www.youtube.com/channel/UCpeT3Q6j8TAGRjW71vMZGYw)
+- 👩‍💻 Developing Coollab, a node-based software to create visual effects and generative-art, similar to TouchDesigner. [Check out the trailer!](https://youtu.be/jsjkjCQCPno)
+- 🤖 Learning Godot
 
 Interested in
  - 🖼️ Computer graphics
