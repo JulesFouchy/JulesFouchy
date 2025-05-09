@@ -1,7 +1,7 @@
 Hi! 👋 I am a software engineer, teacher and curious mind.
 
 Currently
-- 👩‍💻 Developing Coollab, a node-based software to create visual effects and generative-art, similar to TouchDesigner. [Check out the trailer!](https://youtu.be/jsjkjCQCPno)
+- 👩‍💻 Developing [Coollab](https://coollab-art.com/), a node-based software to create visual effects and generative-art, similar to TouchDesigner. [Check out the trailer!](https://youtu.be/jsjkjCQCPno)
 - 🤖 Learning Godot
 
 Interested in
