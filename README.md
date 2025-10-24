@@ -24,12 +24,12 @@ I love
 
 ## My projects
 
-<a href="https://github.com/CoolLibs/Cool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Cool&theme=" />
+<a href="https://github.com/Coollab-Art/Cool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Cool&theme=" />
 </a>
 
-<a href="https://github.com/CoolLibs/Lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoolLibs&repo=Lab" />
+<a href="https://github.com/Coollab-Art/Coollab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coollab-Art&repo=Coollab" />
 </a>
 
 <a href="https://github.com/JulesFouchy/p6">
