@@ -1,7 +1,7 @@
 Hi! 👋 I am a software engineer, teacher and curious mind.
 
 Currently
-- 👩‍💻 Developing [Coollab](https://coollab-art.com/), ✨ Generative visuals for everyone" ✨
+- 👩‍💻 Developing [Coollab](https://coollab-art.com/) ✨ Generative visuals for everyone✨
 
 Interested in
  - 🖼️ Computer graphics
