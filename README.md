@@ -2,6 +2,7 @@ Hi! 👋 I am a software engineer, teacher and curious mind.
 
 Currently
 - 👩‍💻 Developing [Coollab](https://coollab-art.com/) ✨ Generative visuals for everyone✨
+- 🦀 Learning Rust
 
 Interested in
  - 🖼️ Computer graphics
